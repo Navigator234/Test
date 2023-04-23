@@ -1,0 +1,7 @@
+# ninja log v5
+4	1412	7031944339861147	CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	d324bc585370e5c6
+1414	2550	7031944351624995	CMakeProject1.exe	60563cfe6bfda45a
+7	674	7031948302948094	CMakeFiles/CMakeProject1.dir/print.cpp.obj	932b15c20152b4cc
+10	717	7031948303398195	CMakeFiles/CMakeProject1.dir/read.cpp.obj	53f74a3d871660a2
+3	782	7031948304058341	CMakeFiles/CMakeProject1.dir/main.cpp.obj	6c9b44b48630aa77
+783	1345	7031948308629916	CMakeProject1.exe	638ff5bf38ccf24e
